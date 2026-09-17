@@ -95,7 +95,7 @@ The design emphasizes simplicity because the application would be used during st
 
 ## Project Components
 
-1. **[Create a Design Vision](Create%20a%20Design%20Vision.docx)**  
+1. **[Create a Design Vision - Peek Experience](Create%20a%20Design%20Vision%20-%20Peek%20Experience.docx)**
    Documents the complete UX/HCI design process, including the extreme persona, scenario, experience analysis, ideation, system requirements, proposed application features, and final design vision.
 
 ## What I Learned
